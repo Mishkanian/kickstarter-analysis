@@ -23,4 +23,5 @@ One of the most overlooked aspects of a successful campagin is the start date. I
 ### The Great Britain Market
 
 Louise has shown slight interest in entering the Great Britain market with a musical play. Unfortunately, musical Kickstarters in Great Britain have exhibited a troubling failure and cancelation rate. Of the 26 Musical Kickstarters, 16 of them were either canceled or failed (**38% success rate**). The majority of these failures were due to oversized funding goals. Less than 25% of the Kickstarters in this category received more than £1,500. On average, these Kickstarters only received £1,047 in funding. **I would not reccomend that Louise starts a Musical Kickstarter with her intended goal of £4,000**. If Louise does eventually decide to persue a Musical Kickstarter in this market, I would reccomend having a maximum funding goal of £1,000. As the size of this funding goal decreases, the chances of her success will increase.
+![GB Chart](https://github.com/Mishkanian/kickstarter-analysis/blob/main/Picture3.svg)
 
