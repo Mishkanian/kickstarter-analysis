@@ -8,11 +8,11 @@
 
 ### Analysis of Outcomes Based on Launch Date
 When comparing the 1369 Theater Kickstarters based on their outcomes and their launch dates, it is found that the **two most successful months are May and June.** There is a large dropoff in success rates after the summer, with November and December being the two lowest performing months. **Less than 50% of Theater Kickstarters are successful in December.** The first three months of the year can be expected to have an average success rate. The graph below illustrates these outcomes across all years, with the y-axis indicating the number of campaigns.
-![Theater_Outcomes_vs_Launch]()
+![Theater_Outcomes_vs_Launch](https://github.com/Mishkanian/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 For this section, the data is based only on Kickstarters that are considered "Plays," which are defined as a subcategory of "Theater." Unsurprisingly, the highest success rate of these campagins are for those with the smallest funding goals. **Kickstarter Plays with funding goals under $1,000 had an overall success rate of 76%.** Interestingly, there have been 0 canceled "Plays" Kickstarter campaigns, which may be a result of the small data set. It should be noted that due to this small data set, the success of campaigns with funding goals between $25,000 - $50,000 cannot be commented upon. However, the data does suggest that campaigns with **funding goals greater than $50,000 mostly fail with success rates of only 13%.**
-![Outcomes_vs_Goals]()
+![Outcomes_vs_Goals](https://github.com/Mishkanian/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 There were a variety of challenges in this Project related to Excel formulas, creating tables, and graphing. Knowledge of central tendency and measures of spead are required. The tools and formulas necessary to undertake this project in Excel include: Sort & Filter, PivotTables, PivotCharts, IFERROR, ROUND, COUNTIFS, QUARTILE.EXC, STDEV.P, SUM, AVERAGE, MEDIAN, DATE, and YEAR. Additionally, VLOOKUP was used to quickly generate data for individual indivdual entries that our client, Louise, wanted to learn about.
