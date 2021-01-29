@@ -17,7 +17,7 @@ For this section, the data is based only on Kickstarters that are considered "Pl
 ### Challenges and Difficulties Encountered
 There were a variety of challenges in this Project related to Excel formulas, creating tables, and graphing. Knowledge of central tendency and measures of spead are required. The tools and formulas necessary to undertake this project in Excel include: Sort & Filter, PivotTables, PivotCharts, IFERROR, ROUND, COUNTIFS, QUARTILE.EXC, STDEV.P, SUM, AVERAGE, MEDIAN, DATE, and YEAR. Additionally, VLOOKUP was used to quickly generate data for individual indivdual entries that our client, Louise, wanted to learn about.
 
-An interesting challenge that I encountered in this project was converting campaign launch and deadline dates from their original Unix timestamps into more readable data (MONTH/DAR/YEAR). Unix timestamps are measured as the number of seconds since January 1, 1970. This can be converted with the following Excel formula: =(((unix/60)/60)/24+DATE(1970,1,1))
+An interesting challenge that I encountered in this project was converting campaign launch and deadline dates from their original Unix timestamps into more readable data (MONTH/DAY/YEAR). Unix timestamps are measured as the number of seconds since January 1, 1970. This can be converted with the following Excel formula: =(((unix/60)/60)/24+DATE(1970,1,1))
 
 
 ## Results and Conclusions
